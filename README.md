@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @bn7000
-- 👀 I’m interested in Embedded C and Embedded Linux
+- 👋 Hi, I’m Behrouz
+- 👀 I’m interested in Embedded C / Embedded Linux / Qt / Qml
 - 🌱 I’m currently learning Embedded C
