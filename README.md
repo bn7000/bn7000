@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bn7000
+- 👀 I’m interested in Embedded C and Embedded Linux
+- 🌱 I’m currently learning Embedded C
